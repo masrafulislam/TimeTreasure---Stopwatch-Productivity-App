@@ -75,7 +75,7 @@ The app allows users to:
 ## Limitations
 - The app is designed for single-user, local use and does not support multi-user or cloud-based storage.
 - The daily reset occurs at midnight based on the system clock and requires the app to be running.
-- The graph displays data for the last 7 days only, and session history shows the last 10 sessions.
+- The graph displays data for the last 7 days only, and the session history shows the last 10 sessions.
 - No network or file I/O beyond JSON storage is implemented.
 
 ## Future Improvements
@@ -85,11 +85,6 @@ The app allows users to:
 - Add export functionality for session data (e.g., CSV or PDF reports).
 - Support cloud-based storage for cross-device synchronization.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your changes. Ensure that your code follows PEP 8 guidelines and includes appropriate comments.
 
-## Contact
-For questions or feedback, please contact the project maintainer at [your-email@example.com].
